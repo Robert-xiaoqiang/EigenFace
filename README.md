@@ -11,7 +11,7 @@
       - `> TrainMain 50 model/faces.model train`
 
 
-   - `> TestMain <faces to recognition modelName facesDataSet>`
+   - `> TestMain <facesDirName to recognition> modelName facesDataSet`
 
       - `> TestMain test model/faces.model train`
 
